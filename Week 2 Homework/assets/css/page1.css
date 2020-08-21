@@ -1,0 +1,129 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 60px;
+	text-align: center;
+	background:ghostwhite;
+}
+
+a {
+	color:red;
+}
+
+
+span {
+	color:lightskyblue;
+	font-size: 150px;
+	padding: 50px;
+	animation: one 10s infinite;
+}
+
+.Imagine{
+	text-align: center;
+	font-size: 150px;
+    color: lightskyblue;
+    padding: 50px;
+    animation: one 10s infinite;
+}
+
+.found{
+	text-align: center;
+	font-size: 150px;
+	color:lightskyblue;
+	padding: 50px;
+	animation: one 10s infinite;
+}
+
+
+.living{
+	font-size: 150px;
+	color: lightskyblue;
+	padding: 50px;
+	animation: one 10s infinite;
+}
+
+
+.info2{
+	color: lightpink;
+	font-size: 20px;
+	text-align: center;
+	animation: two 10s infinite;
+}
+
+.info3{
+color: lightpink;
+font-size: 20px;
+text-align: center;
+animation: two 10s infinite;
+}
+
+.word2{
+	padding: 50px;
+	color:lightskyblue;
+	font-size: 150px;
+	animation: one 10s infinite;
+}
+
+.word3{
+	padding: 50px;
+	color: lightskyblue;
+	font-size: 150px;
+	animation: one 10s infinite;
+}
+
+
+.info1{
+	color: lightpink;
+	text-align:center;
+	font-size: 20px;
+	animation: two 10s infinite;
+}
+
+
+@keyframes one {
+	0%{
+	color:lightskyblue;
+
+	}
+	25%{
+		color: deepskyblue;
+	}
+
+	50%{
+		color: royalblue;
+
+	}
+
+	75%{
+		color: deepskyblue;
+	}
+
+	100%{
+		color: lightskyblue;
+
+	}
+}
+
+
+@keyframes two {
+	0%{
+	color:lightpink;
+
+	}
+	
+	25%{
+		color: hotpink;
+	}
+
+	50%{
+		color:deeppink ;
+
+	}
+
+	75%{
+		color: hotpink;
+	}
+
+	100%{
+		color: lightpink;
+
+	}

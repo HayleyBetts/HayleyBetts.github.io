@@ -1,0 +1,101 @@
+
+
+.layer1{
+	font-family: georgia,serif;
+	font-size: 25px;
+	color: coral;
+	text-align: left;
+	padding: 60px
+	
+	
+}
+
+body{
+	color: black;
+}
+
+.layer21{
+	display: inline-block;
+	width: 33%;
+	font-family: georgia,serif;
+	font-size: 25px;
+	color: coral;
+	text-align: center;
+	padding-top: 40px;
+	
+
+}
+
+.layer22{
+	display: inline-block;
+	width: 33%;
+	font-family: georgia, serif;
+	font-size: 50px;
+	text-align:center;
+	color: coral;
+	padding-top: 40px;
+	
+
+}
+
+.layer23{
+	display: inline-block;
+	width: 33%;
+	font-family: georgia, serif;
+	font-size: 25px;
+	text-align:center;
+	color: coral;
+	padding-top: 40px;
+	
+
+}
+
+
+
+.layer31{
+	display: inline-block;
+	width: 33%;
+	font-family: georgia,serif;
+	font-size: 25px;
+	color: coral;
+	text-align: center;
+	padding-top: 40px;
+	
+}
+
+.layer32{
+	display: inline-block;
+	width: 33%;
+	font-family: georgia, serif;
+	font-size: 50px;
+	text-align:center;
+	color: coral;
+	padding-top: 40px;
+	
+
+}
+
+.layer33{
+	display: inline-block;
+	width: 33%;
+	font-family: georgia, serif;
+	font-size: 25px;
+	text-align:center;
+	color: coral;
+	padding-top: 40px;
+
+}
+
+
+.message{
+	font-family: georgia,serif;
+	font-size: 170px;
+	color: hotpink;
+	text-align: center;
+	position: fixed;
+	padding-top: 10px;
+
+	
+}
+
+

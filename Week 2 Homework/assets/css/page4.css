@@ -1,0 +1,10 @@
+.message{
+	color: pink;
+	text-align: center;
+	font-family: tahoma;
+	position: fixed;
+	top: 20px;
+	font-size: 10px;
+	transform: rotate(90deg);
+	padding-top: 50px;
+}

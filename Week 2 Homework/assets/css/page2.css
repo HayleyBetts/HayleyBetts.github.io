@@ -1,0 +1,40 @@
+.bg{
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: center;
+	font-size: 210px;
+	transform: uppercase; 
+}
+
+.fg{
+	font-family: time;
+	text-align: center;
+	font-size: 240px;
+	transform: uppercase;
+	text-align: center;
+	color: pink;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+}
+
+.date{
+	font-family: Tahoma, Geneva, sans-serif;
+	text-align: left;
+	font-size: 30px;
+	color: pink;
+	padding-top: 80px;
+	
+}
+
+
+span{
+	color: pink;
+}
+
+.message{
+	text-align: center;
+	font-size: 45px;
+	padding-top:100px;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: black;
+}
