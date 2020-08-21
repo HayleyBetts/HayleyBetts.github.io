@@ -1,0 +1,81 @@
+body {
+	font-family: "Times New Roman", Times, serif
+	font-size: 60px;
+	text-align: center;
+	background: plum;
+}
+
+a {
+	color:red;
+}
+
+
+span {
+	color:white;
+	font-size: 150px;
+	text-align: left;
+}
+
+.Imagine{
+	text-align: center;
+	font-size: 150px;
+    color: white;
+    padding: 30px;
+    text-align: left;
+}
+
+.found{
+	text-align: center;
+	font-size: 150px;
+	color:white;
+	padding: 30px;
+	text-align: left;
+}
+
+
+.living{
+	font-size: 150px;
+	color: white;
+	padding: 30px;
+	text-align: left;
+}
+
+
+.info2{
+	color: white;
+	font-size: 50px;
+	text-align: right;
+}
+
+.info3{
+color: white;
+font-size: 50px;
+text-align: right;
+}
+
+.word2{
+	padding: 40px;
+	color:white;
+	font-size: 150px;
+	text-align: left;
+}
+
+.word3{
+	padding: 40px;
+	color: white;
+	font-size: 150px;
+	text-align: left;
+}
+
+
+.final{
+	text-align: left;
+
+}
+
+.info1{
+	color: white;
+	font-size: 50px;
+	text-align: right;
+
+}

@@ -1,0 +1,58 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 60px;
+	text-align: center;
+	background: pink;
+}
+
+a {
+	color:red;
+}
+
+
+span {
+	color:red;
+}
+
+.Imagine{
+	text-align: right;
+	font-size: 210px;
+}
+
+.we{
+	text-align: left;
+	font-size: 170px;
+	padding-top: 15px;
+}
+
+.word1{
+	text-align: right;
+	font-size: 210px;
+}
+
+
+.living{
+	text-align:left;
+	font-size: 170px;
+}
+
+.word2{
+text-align: right;
+font-size: 210px;
+}
+
+
+.word3{
+text-align: left;
+font-size: 170px;
+}
+
+.info{
+	text-align: left;
+	color: white;
+	font-size: 20px;
+	padding: 40px;
+
+}
+
+
