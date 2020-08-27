@@ -1,7 +1,7 @@
 body {
 	font-family: georgia;
 	font-size: 30px;
-	background: lavenderblush;
+	background: white;
 }
 
 a {
@@ -10,58 +10,58 @@ a {
 
 .box1{
 	width: 60vw;
-	background:paleturquoise;
+	background:black;
 	height: 120vh;
 }
 
 .box2{
 	width: 55vw;
 	height:110vh;
-	background: hotpink;
+	background: white;
 }
 
 .box3{
 	width: 50vw;
 	height:100vh;
-	background: hotpink;
+	background: white;
 }
 
 
 .box4{
 	width: 45vw;
-	background:paleturquoise;
+	background:black;
 	height: 90vh;
 }
 
 .box5{
 	width: 40vw;
 	height:80vh;
-	background: hotpink;
+	background: white;
 }
 
 .box6{
 	width: 35vw;
 	height:70vh;
-	background: hotpink;
+	background: white;
 
 }
 
 .box7{
 	width: 30vw;
 	height:60vh;
-	background: paleturquoise;
+	background: black;
 }
 
 .box8{
 	width: 25vw;
 	height:50vh;
-	background: hotpink;
+	background: white;
 }
 
 .box9{
 	width: 20vw;
 	height:40vh;
-	background: hotpink;
+	background: white;
 }
 
 }
@@ -69,26 +69,46 @@ a {
 .box10{
 	width: 15vw;
 	height:30vh;
-	background: paleturquoise;
+	background: black;
 }
 
 .box11{
 	width: 10vw;
 	height:20vh;
-	background: hotpink;
+	background: white;
 }
 
 .box12{
 	width: 5vw;
 	height:10vh;
-	background: hotpink;
+	background: white;
 
 }
 
 .title{
 	position: fixed;
-	left: 2.5%;
-	color: white;
+	left: 65%;
+	color: black;
 	top: 20%;
+	font-size: 50px
 	
 }
+
+
+.title2{
+	position: fixed;
+	left: 65%;
+	color: black;
+	top: 30%;
+	
+}
+
+.title3{
+	position: fixed;
+	left: 65%;
+	color: black;
+	top: 35%;
+	
+}
+
+
