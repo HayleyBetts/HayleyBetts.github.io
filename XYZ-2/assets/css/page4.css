@@ -1,10 +1,31 @@
-.message{
-	color: pink;
-	text-align: center;
-	font-family: tahoma;
-	position: fixed;
-	top: 20px;
-	font-size: 10px;
-	transform: rotate(90deg);
-	padding-top: 50px;
+.box1{
+	width: 50vw;
+	background:lightpink;
+	height: 100vh;
+
 }
+
+
+body{
+	background: hotpink;
+}
+
+.date{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+}
+
+.box2{
+	position: fixed;
+	top: 25%;
+	left:36%;
+	width:400px;
+	height: 400px;
+	background: yellow;
+	border-radius: 50%;
+	background:white;
+	box-shadow: 0px 0px 90px indigo;
+
+}
+
