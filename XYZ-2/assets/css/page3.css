@@ -1,101 +1,51 @@
-
-
-.layer1{
-	font-family: georgia,serif;
-	font-size: 25px;
-	color: coral;
-	text-align: left;
-	padding: 60px
-	
-	
-}
-
-body{
-	color: black;
-}
-
-.layer21{
-	display: inline-block;
-	width: 33%;
-	font-family: georgia,serif;
-	font-size: 25px;
-	color: coral;
-	text-align: center;
-	padding-top: 40px;
-	
-
-}
-
-.layer22{
-	display: inline-block;
-	width: 33%;
-	font-family: georgia, serif;
-	font-size: 50px;
-	text-align:center;
-	color: coral;
-	padding-top: 40px;
-	
-
-}
-
-.layer23{
-	display: inline-block;
-	width: 33%;
-	font-family: georgia, serif;
-	font-size: 25px;
-	text-align:center;
-	color: coral;
-	padding-top: 40px;
-	
-
-}
-
-
-
-.layer31{
-	display: inline-block;
-	width: 33%;
-	font-family: georgia,serif;
-	font-size: 25px;
-	color: coral;
-	text-align: center;
-	padding-top: 40px;
-	
-}
-
-.layer32{
-	display: inline-block;
-	width: 33%;
-	font-family: georgia, serif;
-	font-size: 50px;
-	text-align:center;
-	color: coral;
-	padding-top: 40px;
-	
-
-}
-
-.layer33{
-	display: inline-block;
-	width: 33%;
-	font-family: georgia, serif;
-	font-size: 25px;
-	text-align:center;
-	color: coral;
-	padding-top: 40px;
-
-}
-
-
 .message{
-	font-family: georgia,serif;
+	font-family: Tahoma;
 	font-size: 170px;
-	color: hotpink;
+	color: deeppink;
+	text-align: center;
+}
+
+.shape1{
+	width:300px;
+	height:200px;
+	background: coral;
 	text-align: center;
 	position: fixed;
-	padding-top: 10px;
-
-	
+	left: 70%;
+	font-family: georgia;
+	font-size: 60px;
+	color: white;
+	top: 10%;
 }
+
+.shape2{
+	width: 680px;
+	height:220px;
+	background: pink;
+	position: fixed;
+	left: 30%;
+	top: 60%;
+	font-size: 220px;
+	color: white;
+	text-align: center;
+}
+
+.shape3{
+	width:300px;
+	height: 80px;
+	background: blue;
+	left: 100px;
+	background: crimson;
+	font-size: 80px;
+	color: white;
+	position: fixed;
+	top: 5%;
+	left: 10%;
+	text-align: center;
+}
+
+
+
+
 
 
