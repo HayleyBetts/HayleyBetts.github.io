@@ -1,7 +1,7 @@
 .message{
 	font-family: Tahoma;
 	font-size: 170px;
-	color: pink;
+	color: silver;
 	text-align: center;
 }
 
@@ -31,6 +31,7 @@
 	text-align: center;
 	z-index: -1;
 }
+
 
 .shape3{
 	width:300px;
