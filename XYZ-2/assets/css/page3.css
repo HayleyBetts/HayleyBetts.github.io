@@ -1,14 +1,18 @@
 .message{
 	font-family: Tahoma;
 	font-size: 170px;
-	color: silver;
+	color: plum;
 	text-align: center;
+}
+
+body{
+	background: black;
 }
 
 .shape1{
 	width:300px;
 	height:200px;
-	background: coral;
+	background: powderblue;
 	text-align: center;
 	position: fixed;
 	left: 70%;
@@ -22,7 +26,7 @@
 .shape2{
 	width: 680px;
 	height:220px;
-	background: hotpink;
+	background:peachpuff;
 	position: fixed;
 	left: 30%;
 	top: 60%;
@@ -36,9 +40,8 @@
 .shape3{
 	width:300px;
 	height: 80px;
-	background: blue;
+	background: lightpink;
 	left: 100px;
-	background: crimson;
 	font-size: 80px;
 	color: white;
 	position: fixed;
