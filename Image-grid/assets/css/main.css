@@ -7,3 +7,48 @@ a {
 	color:red;
 }
 
+.nav {
+	display: flex;
+	justify-content: space-around;
+	font-size: 20px;
+	flex-wrap: wrap;
+	position: fixed;
+	top: 0px;
+	left:0px;
+	width: 100%;
+}
+
+.btn {
+border:1px solid black;
+border-radius: 10px;
+padding:5px;
+margin-top: 5px;
+}
+
+.title {
+margin-top:50vh;
+}
+
+.container {
+display: flex;
+flex-wrap: wrap;
+align-items: flex-end;
+}
+
+.item {
+width: 25%;
+padding: 30px;
+background: pink;
+color: white;
+}
+
+.item img {
+max-width: 100%;
+display: block;
+margin:auto;
+}
+
+.footer {
+
+}
+
