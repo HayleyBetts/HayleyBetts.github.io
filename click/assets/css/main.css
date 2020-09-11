@@ -23,7 +23,9 @@ body {
 /*Add background color, and then transition:2s; */
 
 .smile:hover {
-
+background: pink;
+transition: 2s;
+opacity: 1;
 }
 
 .box {
@@ -32,7 +34,6 @@ body {
 	margin:10px;
 	background-color:red;
 }
-
 
 
 
@@ -48,6 +49,17 @@ body {
 
 /* add a .active, then make it specific to the element that is active ie.
 .box.active or .slide.active or .alert.active  */
+
+.box.active {
+	background-color: blue;
+}
+
+.slide.active{
+	margin-right: -200px;
+	transition: 2s; 
+}
+
+
 
 
 .alert {
@@ -82,6 +94,13 @@ body {
 	border-radius: 10px;
 }
 
+.btn:hover {
+	color: white
+	background-color:black;
+	cursor: pointer;
+
+}
+
 
 .container {
 	display: flex;
@@ -94,6 +113,18 @@ body {
 
 /*try adding some specific widths such as .item.small or .item.large  */
 
+.item.small{
+	width: 16%;
+}
+
+.item.large {
+	width: 66%;
+}
+
+
+.item.hide {
+	display: none;
+}
 
 .item img {
 	width: 100%;
