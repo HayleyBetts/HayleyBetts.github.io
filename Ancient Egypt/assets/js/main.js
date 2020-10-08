@@ -2,29 +2,34 @@ $(document).ready (function () {
 	console.log ('hello')
 
 
-	$('.btn-gods').click(function(){
+	$('.btn-Religion').click(function(){
 		$('.item').addClass('hide');
-		$('.item.gods').removeClass('hide');
+		$('.item.Religion').removeClass('hide');
 	});
 
-	$('.btn-values').click(function(){
+	$('.btn-Symbols').click(function(){
 		$('.item').addClass('hide');
-		$('.item.values').removeClass('hide');
+		$('.item.Symbols').removeClass('hide');
 	});
 
-	$('.btn-beliefs').click(function(){
+	$('.btn-Rituals').click(function(){
 		$('.item').addClass('hide');
-		$('.item.beliefs').removeClass('hide');
+		$('.item.Rituals').removeClass('hide');
 	});
 
-	$('.btn-rituals').click(function(){
+	$('.btn-Pharaohs').click(function(){
 		$('.item').addClass('hide');
-		$('.item.rituals').removeClass('hide');
+		$('.item.Pharaohs').removeClass('hide');
 	});
 
-	$('.btn-symbols').click(function(){
+	$('.btn-Egyptianlife').click(function(){
 		$('.item').addClass('hide');
-		$('.item.symbols').removeClass('hide');
+		$('.item.Egyptianlife').removeClass('hide');
+	});
+
+	$('.btn-Reset').click(function(){
+		$('.item').addClass('hide');
+		$('.item.Reset').addClass('hide');
 	});
 
 });

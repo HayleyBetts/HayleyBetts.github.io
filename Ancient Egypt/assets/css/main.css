@@ -1,6 +1,6 @@
 body {
-	font-family: Helvetica,Arial,sans-serif;
-	font-size: 32px;
+	font-family: Times New Roman,Times,serif;
+	font-size: 20px;
 }
 
 a {
@@ -8,13 +8,16 @@ a {
 }
 
 *{
-	outline: 1px solid red;
+
 }
 
 .nav {
 	font-size: 40px;
 	top: 20px;
 	left:0px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
 }
 
 .btn {
@@ -104,11 +107,20 @@ margin:auto;
 	width: 33.33%;
 }
 
+.item.w3of6{
+	width: 50%;
+}
 
 
+.item.small{
+	width: 10%;
+}
 
-
-
+.reset{
+	text-align: center;
+	font-size: 50px;
+	padding: 50px;
+}
 
 .item.hide {
 	display: none;
