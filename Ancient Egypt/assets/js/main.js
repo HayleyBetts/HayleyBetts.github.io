@@ -1,9 +1,9 @@
 $(document).ready (function () {
 	console.log ('hello')
 
-	$('.btn-home').click(function(){
-		$('.home').addClass('hide');
-		$('.page').removeClass('hide');
+	$(".home").click(function () {
+ 	 $(".home").addClass("hide");
+  	$(".page").removeClass("hide");
 	});
 
 	$('.btn-Religion').click(function(){

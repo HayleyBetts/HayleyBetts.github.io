@@ -11,8 +11,17 @@ a {
 
 }
 
-.page{
-	display: none; 
+.home {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 70vh;
+  cursor: pointer;
+}
+
+.hide {
+  display: none;
 }
 
 .nav {
