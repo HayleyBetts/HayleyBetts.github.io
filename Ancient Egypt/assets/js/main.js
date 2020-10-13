@@ -1,11 +1,10 @@
 $(document).ready (function () {
 	console.log ('hello')
 
-
-	$('.btn-Home').click(function(){
-		$('.nav').toggleClass('active');
+	$('.home').click(function(){
+		$('.home').addClass('hide');
+		$('.page').removeClass('hide');
 	});
-
 
 	$('.btn-Religion').click(function(){
 		$('.item').addClass('hide');
