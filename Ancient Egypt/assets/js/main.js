@@ -2,6 +2,11 @@ $(document).ready (function () {
 	console.log ('hello')
 
 
+	$('.btn-Home').click(function(){
+		$('.nav').toggleClass('active');
+	});
+
+
 	$('.btn-Religion').click(function(){
 		$('.item').addClass('hide');
 		$('.item.Religion').removeClass('hide');
@@ -28,8 +33,12 @@ $(document).ready (function () {
 	});
 
 	$('.btn-Reset').click(function(){
+		$('.item').removeClass('hide');
+	});
+
+	$('.btn-nav').click(function(){
 		$('.item').addClass('hide');
-		$('.item.Reset').addClass('hide');
+		$('.item.Egyptianlife').removeClass('hide');
 	});
 
 });
