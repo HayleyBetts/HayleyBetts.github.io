@@ -1,7 +1,7 @@
 $(document).ready (function () {
 	console.log ('hello')
 
-	$('.home').click(function(){
+	$('.btn-home').click(function(){
 		$('.home').addClass('hide');
 		$('.page').removeClass('hide');
 	});
