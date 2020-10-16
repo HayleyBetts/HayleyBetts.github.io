@@ -34,7 +34,7 @@ $(document).ready (function () {
 	});
 */
 
-	$('.Click-reset').click(function(){
+	$('.btn-Reset').click(function(){
 		$('.item').removeClass('hide');
 		$('.caption').addClass('hide');
 	});

@@ -152,54 +152,157 @@ margin:auto;
 	width: 50%;
 }
 
-.item.w2of6.samesize{
+.item.Symbols.w1of5.samesize{
+	width: 20%;
+}
+
+.item.Symbols.w2of5.samesize{
+	width: 20%;
+}
+
+.item.Symbols.w1of4.samesize{
+	width: 20%;
+}
+
+.item.Symbols.w2of4.samesize{
+	width: 20%;
+}
+
+.item.Symbols.w1of3.samesize{
+	width: 20%;
+}
+
+.item.Symbols.w1of6.samesize{
+	width: 20%;
+}
+
+.item.Symbols.w2of6.samesize{
 	width: 20%;
 }
 
 
-.item.w1of5.samesize{
+
+
+
+.item.Pharaohs.w1of5.samesize{
 	width: 20%;
 }
 
-.item.w2of5.samesize{
+.item.Pharaohs.w2of5.samesize{
 	width: 20%;
 }
 
-.item.w3of5.samesize{
+.item.Pharaohs.w1of4.samesize{
 	width: 20%;
 }
 
-
-.item.w1of4.samesize{
+.item.Pharaohs.w2of4.samesize{
 	width: 20%;
 }
 
-.item.w2of4.samesize{
+.item.Pharaohs.w1of3.samesize{
 	width: 20%;
 }
 
-.item.w1of3.samesize{
+.item.Pharaohs.w1of6.samesize{
 	width: 20%;
 }
 
-.item.w2of3.samesize{
-	width: 20%;
-}
-
-.item.w1of6.samesize{
-	width: 20%;
-}
-
-.item.w2of6.samesize{
+.item.Pharaohs.w2of6.samesize{
 	width: 20%;
 }
 
 
-.item.small{
-	width: 10%;
+
+.item.Egyptianlife.w1of5.samesize{
+	width: 16.66%;
+}
+
+.item.Egyptianlife.w2of5.samesize{
+	width: 16.66%;
+}
+
+.item.Egyptianlife.w1of4.samesize{
+	width: 16.66%;
+}
+
+.item.Egyptianlife.w2of4.samesize{
+	width: 16.66%;
+}
+
+.item.Egyptianlife.w1of3.samesize{
+	width: 16.66%;
+}
+
+.item.Egyptianlife.w1of6.samesize{
+	width: 16.66%;
+}
+
+.item.Egyptianlife.w2of6.samesize{
+	width: 16.66%;
 }
 
 
+
+
+.item.Religion.w1of5.samesize{
+	width: 16.66%;
+}
+
+.item.Religion.w2of5.samesize{
+	width: 16.66%;
+}
+
+.item.Religion.w1of4.samesize{
+	width: 16.66%;
+}
+
+.item.Religion.w2of4.samesize{
+	width: 16.66%;
+}
+
+.item.Religion.w1of3.samesize{
+	width: 16.66%;
+}
+
+.item.Religion.w1of6.samesize{
+	width: 16.66%;
+}
+
+.item.Religion.w2of6.samesize{
+	width: 16.66%;
+}
+
+
+
+
+.item.Rituals.w1of5.samesize{
+	width: 16.66%;
+}
+
+.item.Rituals.w2of5.samesize{
+	width: 16.66%;
+}
+
+.item.Rituals.w1of4.samesize{
+	width: 16.66%;
+}
+
+.item.Rituals.w2of4.samesize{
+	width: 16.66%;
+}
+
+.item.Rituals.w1of3.samesize{
+	width: 16.66%;
+}
+
+.item.Rituals.w1of6.samesize{
+	width: 16.66%;
+}
+
+.item.Rituals.w2of6.samesize{
+	width: 16.66%;
+}
 
 .item.hide {
 	display: none;
