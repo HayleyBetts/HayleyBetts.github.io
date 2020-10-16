@@ -27,15 +27,6 @@ height: 500px;
 	height: 100%;
 }
 
-.click {
-padding-top:50px;
-height: 100px;
-}
-
-
-.click img{
-	height: 50%;
-}
 
 .About{
 	font-size: 30px;
@@ -51,10 +42,6 @@ height: 100px;
 }
 
 
-.samesize {
-  width: 10%;
-}
-
 .nav {
 	top: 20px;
 	display: flex;
@@ -66,8 +53,8 @@ height: 100px;
 
 
 .btn {
-padding:70px;
-height: 300px;
+padding:50px;
+height: 250px;
 }
 
 
