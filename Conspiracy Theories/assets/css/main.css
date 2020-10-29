@@ -1,0 +1,105 @@
+body {
+	font-family: arial;
+	font-size: 25px;
+	background-color: darkolivegreen;
+
+}
+
+a {
+	color:red;
+}
+
+
+.title{
+	font-family:  arial,sans-serif;
+	font-size: 25px;
+	text-align: center;
+	padding:30px;
+	background-color: white;
+
+}
+
+.file1{
+	width: 10px;
+	background-color: darkolivegreen;
+	padding: 50px;
+}
+
+.file2{
+	padding-top: 100px;
+	padding-left: 200px;
+}
+
+.file3{
+	padding: 200px;
+}
+
+.par1{
+padding-left: 50px;
+padding-top: 60px
+background-color: darkolivegreen;
+font-size: 30px;
+}
+
+.par2{
+padding-left: 50px;
+padding-top: 60px;
+padding-right: 50px;
+background-color: darkolivegreen;
+font-size: 40px;
+}
+
+
+
+.side{
+display: flex;
+flex-wrap: wrap;
+align-items: flex-end;
+}
+
+
+.par5{
+padding-left: 200px;
+padding-top: 60px;
+background-color: darkolivegreen;
+font-size: 30px;
+}
+
+.par6{
+padding-left: 80px;
+padding-top: 60px;
+padding-right: 80px;
+background-color: darkolivegreen;
+font-size: 43px;
+}
+
+.par7{
+padding-left: 80px;
+padding-top: 60px;
+background-color: darkolivegreen;
+font-size: 50px;
+}
+
+.par8{
+padding-left: 80px;
+padding-top: 60px;
+background-color: darkolivegreen;
+}
+
+
+
+.w1of2{
+	width: 50%;
+}
+
+.w2of3{
+	width: 66.66%;
+}
+
+.w1of1{
+	width: 100%
+}
+
+.w5{
+	width: 77%;
+}
