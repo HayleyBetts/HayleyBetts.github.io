@@ -1,0 +1,36 @@
+body{
+	background-color: black;
+	color: white;
+	font-size: 50px;
+	line-height: 60px;
+	font-family: acumin-pro, sans-serif;
+	font-weight: 380;
+}
+
+.title{
+	font-family: stolzl, sans-serif;
+	font-size: 15vw;
+	line-height: 17vw;
+	text-align: right;
+	letter-spacing: -10px;
+	padding-bottom: 50px;
+}
+
+.trans{
+	background-color: white;
+	color: black;
+	width: 5vw;
+	height: 100%;
+	cursor: pointer;
+}
+
+.trans:hover {
+  background-color: white;
+  width:100%;
+  height: 100%;
+  transition:5s;
+}
+
+.hide{
+	display: none;
+}

@@ -1,0 +1,76 @@
+body{
+	background-color: indianred;
+	color: white;
+	font-size: 20px;
+	line-height: 42px;
+	font-family: acumin-pro, sans-serif;
+	font-weight: 380;
+}
+
+h1{
+	font-family: stolzl, sans-serif;
+	font-size: 22vw;
+	line-height: 20vw;
+	text-align: right;
+	letter-spacing: -10px;
+}
+
+h2{
+	font-size: 8vw;
+	line-height: 10vw;
+	text-align: center;
+	font-family: acumin-pro, sans-serif;
+	letter-spacing: -5px;
+	font-weight: 100;w
+}
+
+
+h3{
+	font-size: 3vw;
+	line-height: 4vw;
+	text-align: center;
+	padding-right: 1vw;
+	padding-left: 1vw;
+	font-family: stolzl, sans-serif;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	letter-spacing: 3px;
+
+
+}
+
+h4{
+	font-size: 7vw;
+	line-height: 10vw;
+	text-align: left;
+	font-family: acumin-pro, sans-serif;
+	letter-spacing: -3px;	
+	padding-left: 15vw;
+	font-weight: 100;
+	padding-top: 50px;
+
+}
+
+p{
+	font-size: 2vw;
+	line-height: 2vw;
+	padding-right: 15vw;
+	padding-left: 15vw;
+	text-align: left;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+
+}
+
+.img{
+	padding-left: 15vw;
+}
+
+.Nav{
+	background-color: black;
+	padding: 30px;
+	color: indianred;
+	font-size: 5vw;
+	line-height: 10vw;
+}
