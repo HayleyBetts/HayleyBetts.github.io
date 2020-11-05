@@ -10,7 +10,6 @@ start page
   left col:   article title
   right col:  text
 
-
   h1 title
   left col:   footnotes
   right col:  text
