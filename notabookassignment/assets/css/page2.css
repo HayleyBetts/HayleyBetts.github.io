@@ -7,6 +7,11 @@ body{
 	font-weight: 380;
 }
 
+.chapter{
+	width: 100vw;
+	height:100vh;
+}
+
 h1{
 	font-family: stolzl, sans-serif;
 	font-size: 22vw;
@@ -67,10 +72,34 @@ p{
 	padding-left: 15vw;
 }
 
-.Nav{
-	background-color: black;
-	padding: 30px;
-	color: indianred;
-	font-size: 5vw;
-	line-height: 10vw;
+.nav{
+	font-weight: 100; 
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	height: 25vh;
+	text-align: center;
 }
+
+.a1{
+	background-color: darkcyan;
+	padding: 25px;
+	outline: 5px solid white;
+}
+
+.a2{
+	background-color: indianred;
+	padding: 25px;
+	outline: 5px solid white;
+}
+
+.a3{
+	background-color: seagreen;
+	padding: 25px;
+	outline: 5px solid white;
+}
+
+.w1of3{
+	width: 33.33%;
+}
+

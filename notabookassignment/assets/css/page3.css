@@ -7,10 +7,16 @@ body{
 	font-weight: 380;
 }
 
+.chapter{
+	width: 100vw;
+	height: 100vh;
+	outline: 2px;
+}
+
 h1{
 	font-family: stolzl, sans-serif;
-	font-size: 10vw;
-	line-height: 12vw;
+	font-size: 12.5vw;
+	line-height: 12.5vw;
 	text-align: right;
 	letter-spacing: -10px;
 }
@@ -64,13 +70,41 @@ p{
 }
 
 .img{
-	padding-left: 15vw;
+	width: 100%;
 }
 
-.Nav{
-	background-color: black;
-	padding: 30px;
-	color: seagreen;
-	font-size: 5vw;
-	line-height: 10vw;
+.hero{
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav{
+	font-weight: 100; 
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	text-align: center;
+}
+
+.a1{
+	background-color: darkcyan;
+	padding: 100px;
+	outline: 2px solid black;
+}
+
+.a2{
+	background-color: seagreen;
+	padding: 100px;
+	outline: 2px solid black;
+}
+
+.a3{
+	background-color: indianred;
+	padding: 100px;
+	outline: 2px solid black;
+}
+
+.w1of3{
+	width: 33.33%;
 }
