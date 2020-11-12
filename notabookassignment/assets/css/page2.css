@@ -1,32 +1,37 @@
 body{
-	background-color: indianred;
-	color: white;
-	font-size: 20px;
+	color: black;
+	font-size: 15px;
 	line-height: 42px;
-	font-family: acumin-pro, sans-serif;
-	font-weight: 380;
+	font-family: nimbus-sans, sans-serif;
+	font-weight: 300;
+	background-color: white;
 }
 
 .chapter{
 	width: 100vw;
 	height:100vh;
+	background-color: black;
+	color: white;
 }
 
 h1{
-	font-family: stolzl, sans-serif;
-	font-size: 22vw;
-	line-height: 20vw;
+	font-family: acumin-pro-extra-condensed, sans-serif;
+	font-size: 25vw;
+	line-height: 18vw;
 	text-align: right;
-	letter-spacing: -10px;
+	font-weight: 900;
+	padding-top: 20px;
+	padding-right: 1vw;
 }
 
 h2{
-	font-size: 8vw;
-	line-height: 10vw;
-	text-align: center;
-	font-family: acumin-pro, sans-serif;
-	letter-spacing: -5px;
-	font-weight: 100;w
+	font-size: 5vw;
+	line-height: 3vw;
+	text-align: right;
+	font-family:  nimbus-sans, sans-serif;
+	padding-top: 75px;
+	letter-spacing: 1px;
+	padding-right: 1vw;
 }
 
 
@@ -36,10 +41,10 @@ h3{
 	text-align: center;
 	padding-right: 1vw;
 	padding-left: 1vw;
-	font-family: stolzl, sans-serif;
+	font-family:  nimbus-sans, sans-serif;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	letter-spacing: 3px;
+	color: red;
 
 
 }
@@ -47,33 +52,66 @@ h3{
 h4{
 	font-size: 7vw;
 	line-height: 10vw;
-	text-align: left;
-	font-family: acumin-pro, sans-serif;
-	letter-spacing: -3px;	
+	text-align: left;	
 	padding-left: 15vw;
 	font-weight: 100;
 	padding-top: 50px;
+	font-family: acumin-pro-extra-condensed, sans-serif;
 
 }
 
+h5{
+	font-size: 2.5vw;
+	line-height: 3vw;
+	text-align: center;
+	padding-right: 1vw;
+	padding-left: 1vw;
+	font-family:  nimbus-sans, sans-serif;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-left: 15vw;
+	padding-right: 15vw;
+}
+
 p{
-	font-size: 2vw;
-	line-height: 2vw;
+	font-size: 1.25vw;
+	line-height: 2.5vw; 
 	padding-right: 15vw;
 	padding-left: 15vw;
 	text-align: left;
 	padding-top: 50px;
 	padding-bottom: 50px;
+	font-weight: 300;
 
+}
 
+b{
+	font-size: 1.25vw;
+	line-height: 2.5vw;
+	padding: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
 }
 
 .img{
-	padding-left: 15vw;
+	width: 100%;
 }
 
+.image1{
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 50px;
+}
+
+
+.w1of2{
+	width: 50%;
+}
+
+
 .nav{
-	font-weight: 100; 
 	display: flex;
 	flex-wrap: wrap;
 	align-items: flex-end;
@@ -82,21 +120,24 @@ p{
 }
 
 .a1{
-	background-color: darkcyan;
+	background-color: black;
 	padding: 25px;
 	outline: 5px solid white;
+	color: white;
 }
 
 .a2{
-	background-color: indianred;
+	background-color: black;
 	padding: 25px;
 	outline: 5px solid white;
+	color: white;
 }
 
 .a3{
-	background-color: seagreen;
+	background-color: black;
 	padding: 25px;
 	outline: 5px solid white;
+	color: white;
 }
 
 .w1of3{

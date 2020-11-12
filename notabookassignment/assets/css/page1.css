@@ -1,19 +1,67 @@
 body{
-	background-color: black;
-	color: white;
-	font-size: 50px;
-	line-height: 60px;
-	font-family: stolzl, sans-serif;
+	background-color: white;
+	color: black;
+	font-size: 20px;
+	line-height: 30px;
+	font-family: anzeigen-grotesk, sans-serif;
 }
 
 .title{
-	font-family: stolzl, sans-serif;
-	font-size: 15vw;
-	line-height: 17vw;
+	font-family: acumin-pro-extra-condensed, sans-serif;
+	font-size: 23vw;
+	line-height: 22vw;
 	text-align: right;
-	letter-spacing: -10px;
-	padding-bottom: 50px;
+	letter-spacing: -5px;
+	padding-right: 20px;
+
 }
+
+.mb{
+	width: 15vw;
+	height:100vh;
+	background-color: black;
+	position: fixed;
+	top:0%;
+	left: 0%;
+	color: white;
+	font-size: 20px;
+	overflow: scroll;
+}
+
+.a1{
+	padding-top: 30px;
+	padding-left: 5px;
+	padding-bottom: 80px;
+
+}
+
+
+.a2{
+	padding-top: 30px;
+	padding-left: 5px;
+	padding-bottom: 80px;
+	
+}
+
+
+.a3{
+	padding-top: 30px;
+	padding-left: 5px;
+	padding-bottom: 80px;
+	
+}
+
+.article{
+	padding-top: 30px;
+	padding-left: 5px;
+	color: red;
+
+}
+
+
+
+
+/*
 
 .nav{
 	font-weight: 100; 
@@ -28,18 +76,24 @@ body{
 }
 
 .a1{
-	background-color: indianred;
+	background-color: white;
 	padding: 25px;
+	outline: 5px solid black;
+	color: black;
 }
 
 .a2{
-	background-color: darkcyan;
+	background-color: white;
 	padding: 25px;
+	outline: 5px solid black;
+	color: black;
 }
 
 .a3{
-	background-color: seagreen;
+	background-color: white;
 	padding: 25px;
+	outline: 5px solid black;
+	color: black;
 }
 
 .w1of3{
