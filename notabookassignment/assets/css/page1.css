@@ -13,11 +13,10 @@ body{
 	text-align: right;
 	letter-spacing: -5px;
 	padding-right: 20px;
-
 }
 
 .mb{
-	width: 15vw;
+	width: 18vw;
 	height:100vh;
 	background-color: black;
 	position: fixed;
@@ -26,36 +25,51 @@ body{
 	color: white;
 	font-size: 20px;
 	overflow: scroll;
+	padding: 15px;
+
 }
 
 .a1{
 	padding-top: 30px;
 	padding-left: 5px;
-	padding-bottom: 80px;
-
+	padding-bottom: 25px;
+	color: white;
 }
 
 
 .a2{
 	padding-top: 30px;
 	padding-left: 5px;
-	padding-bottom: 80px;
-	
+	padding-bottom: 25px;
+	color: white;
 }
 
 
 .a3{
 	padding-top: 30px;
 	padding-left: 5px;
-	padding-bottom: 80px;
-	
+	padding-bottom: 25px;
+	color: white;
+}
+
+.pub{
+	color: white;
+}
+
+.author{
+	color: white;
+}
+
+.date{
+	color: white;
+	padding-bottom: 30px;
 }
 
 .article{
 	padding-top: 30px;
 	padding-left: 5px;
 	color: red;
-
+	font-size: 30px;
 }
 
 

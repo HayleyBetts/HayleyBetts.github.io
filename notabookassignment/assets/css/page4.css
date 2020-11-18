@@ -1,18 +1,17 @@
 body{
-	background-color: white;
 	color: black;
-	font-size: 20px;
+	font-size: 15px;
 	line-height: 42px;
-	font-family: acumin-pro, sans-serif;
-	font-weight: 380;
+	font-family: fira-sans, sans-serif;
+	font-weight: 200;
+	background-color: white;
 }
-
 
 
 h1{
 	font-family: acumin-pro-extra-condensed, sans-serif;
-	font-size: 18vw;
-	line-height: 18vw;
+	font-size: 23vw;
+	line-height: 15vw;
 	text-align: right;
 	font-weight: 900;
 	padding-top: 20px;
@@ -20,11 +19,116 @@ h1{
 }
 
 h2{
-	font-size: 5vw;
-	line-height: 3vw;
+	font-size: 4.5vw;
+	line-height: 8vw;
 	text-align: right;
 	font-family:  nimbus-sans, sans-serif;
-	padding-top: 75px;
-	letter-spacing: 1px;
-	padding-right: 1vw;
+	padding-top: 80px;
+	padding-bottom: 20px;
+	padding-right: 3vw;
+}
+
+
+h3{
+	font-size: 3vw;
+	line-height: 4vw;
+	text-align: center;
+	padding: 3vw;
+	color: red;
+
+
+}
+
+h4{
+	font-size: 7vw;
+	line-height: 10vw;
+	text-align: left;	
+	padding-left: 6vw;
+	font-weight: 100;
+	padding-top: 50px;
+	font-family: acumin-pro-extra-condensed, sans-serif;
+	padding-bottom: 5vh;
+
+}
+
+h5{
+	font-size: 2vw;
+	line-height: 2.5vw; 
+	font-weight: 200;
+	padding: 3vw;
+	color: red;
+
+	
+}
+
+p{
+	font-size: 1.25vw;
+	line-height: 2.5vw; 
+	text-align: left;
+	font-weight: 200;
+	padding:3vw;
+
+}
+
+
+.img{
+	width: 100%;
+}
+
+.image{
+	width: 20px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+ }
+
+.col40{
+	width: 40%;
+}
+
+.col60{
+	width: 60%;
+}
+
+
+
+.w2of3{
+	width: 66.66%;
+}
+
+
+.nav{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-end;
+	height: 25vh;
+	text-align: center;
+}
+
+.a1{
+	background-color: black;
+	padding: 25px;
+	outline: 5px solid white;
+	color: white;
+}
+
+.a2{
+	background-color: black;
+	padding: 25px;
+	outline: 5px solid white;
+	color: white;
+}
+
+.a3{
+	background-color: black;
+	padding: 25px;
+	outline: 5px solid white;
+	color: white;
+}
+
+
+.w1of3{
+	width: 33.33%;
 }
