@@ -3,7 +3,9 @@ body{
 	color: black;
 	font-size: 20px;
 	line-height: 30px;
-	font-family: anzeigen-grotesk, sans-serif;
+	font-family: fira-sans, sans-serif;
+	font-weight: 200;
+
 }
 
 .title{

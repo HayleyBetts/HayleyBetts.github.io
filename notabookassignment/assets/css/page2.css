@@ -30,12 +30,11 @@ h2{
 
 
 h3{
-	font-size: 3vw;
-	line-height: 4vw;
-	text-align: center;
+	font-size: 2vw;
+	line-height: 2.5vw; 
+	font-weight: 200;
 	padding: 3vw;
 	color: red;
-
 
 }
 
@@ -76,8 +75,11 @@ p{
 }
 
 .image{
-	width: 20px;
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
 }
+
 
 .text{
 	display: flex;
@@ -96,12 +98,6 @@ p{
 
 .col60{
 	width: 60%;
-}
-
-
-
-.w2of3{
-	width: 66.66%;
 }
 
 

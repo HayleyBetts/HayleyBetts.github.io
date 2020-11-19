@@ -30,9 +30,9 @@ h2{
 
 
 h3{
-	font-size: 3vw;
-	line-height: 4vw;
-	text-align: center;
+	font-size: 2vw;
+	line-height: 2.5vw; 
+	font-weight: 200;
 	padding: 3vw;
 	color: red;
 
@@ -40,15 +40,11 @@ h3{
 }
 
 h4{
-	font-size: 7vw;
-	line-height: 10vw;
-	text-align: left;	
-	padding-left: 6vw;
-	font-weight: 100;
-	padding-top: 50px;
-	font-family: acumin-pro-extra-condensed, sans-serif;
-	padding-bottom: 5vh;
-
+	font-size: 4.5vw;
+	line-height: 4vw; 
+	padding: 3vw;
+	color: red;
+	text-align: center;
 }
 
 h5{
@@ -57,9 +53,9 @@ h5{
 	font-weight: 200;
 	padding: 3vw;
 	color: red;
-
-	
 }
+
+
 
 p{
 	font-size: 1.25vw;
@@ -72,11 +68,12 @@ p{
 
 
 .img{
-	width: 100%;
+	width: 40%;
 }
 
-.image{
-	width: 20px;
+.picture{
+	width: 10px;
+	height: 10px;
 }
 
 .row {
