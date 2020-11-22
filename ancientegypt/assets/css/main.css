@@ -1,5 +1,5 @@
 body {
-	font-family: rubrik-edge-new, sans-serif;
+	font-family: kepler-std, serif;
 	font-size: 15px;
 	text-align: center;
 	font-weight: 300;
@@ -39,8 +39,8 @@ padding-bottom: 60vh;
 
 
 .About{
-	font-size: 30px;
-	padding: 50px;
+	font-size: 2vw;
+	line-height: 3vw;
 }
 
 .title{
