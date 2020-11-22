@@ -42,7 +42,7 @@ h4{
 	font-size: 7vw;
 	line-height: 10vw;
 	text-align: left;	
-	padding-left: 6vw;
+	padding-left: 3vw;
 	font-weight: 100;
 	padding-top: 50px;
 	font-family: acumin-pro-extra-condensed, sans-serif;
@@ -69,15 +69,18 @@ p{
 
 }
 
+a{
+	text-decoration: none;
+	color: white;
+}
 
-.img{
+
+img{
 	width: 100%;
 }
 
 .image{
-	width: 400px;
-	margin-right: auto;
-	margin-left: auto;
+	padding: 4vw;
 }
 
 

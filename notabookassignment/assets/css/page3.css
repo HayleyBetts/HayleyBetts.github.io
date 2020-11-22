@@ -74,14 +74,20 @@ p{
 
 }
 
+a{
+	text-decoration: none;
+	color: white;
+}
 
-.img{
+
+img{
 	width: 100%;
 }
 
 .image{
-	width: 20px;
+	padding: 4vw;
 }
+
 
 .text{
 	display: flex;

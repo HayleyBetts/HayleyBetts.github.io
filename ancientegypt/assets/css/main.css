@@ -1,7 +1,8 @@
 body {
-	font-family: Veranda,Geneva, sans-serif;
+	font-family: rubrik-edge-new, sans-serif;
 	font-size: 15px;
 	text-align: center;
+	font-weight: 300;
 }
 
 a {
@@ -27,6 +28,15 @@ height: 500px;
 	height: 100%;
 }
 
+.par{
+width:55vw;
+height:40vh;
+text-align:center;
+margin-right: auto;
+margin-left: auto;
+padding-bottom: 60vh;
+}
+
 
 .About{
 	font-size: 30px;
@@ -41,6 +51,10 @@ height: 500px;
   display: none;
 }
 
+.show{
+	display:none;
+}
+
 
 .nav {
 	top: 20px;
@@ -49,13 +63,29 @@ height: 500px;
 	align-items: flex-end;
 	margin-right: auto;
 	margin-left: auto;
+	position: fixed;
+}
 
+.box{
+	background-color: white;
+	width: 100vw;
+	height: 24vh;
+	position: fixed;
+}
+
+.box2{
+	width: 100vw;
+	height: 25vh;
 }
 
 
 .btn {
-padding:50px;
-height: 250px;
+padding-left: 4.5vw;
+padding-top: 1vw;
+padding-right: 5vw;
+height: 20vh;
+padding-bottom: 1vw;
+
 }
 
 
@@ -75,6 +105,10 @@ height: 250px;
 margin-top:50vh;
 }
 
+.caption{
+	padding-top: 5vh;
+}
+
 
 .container {
 display: flex;
@@ -85,7 +119,14 @@ align-items: flex-end;
 .item {
 width: 25%;
 padding: 30px;
+border: outline black 2px;
 }
+
+.border img{
+width: 100%;
+padding-top: 10vh;
+}
+
 
 .item img {
 max-width: 100%;
@@ -424,15 +465,26 @@ margin:auto;
 	}
 
 	.btn{
-		width: 50%;
+		width: 25%;
 		display: flex;
 		flex-wrap: wrap;
+		padding-right: 10vw;
+	}
 
+	.box{
+		background-color: white;
+		position: fixed;
+		width: 100vw;
+		height: 40vh;
 	}
 
 	.btn img{
 		height: 100px;
 	}
+
+.decoration{
+display: none;
+}
 
 	.control {
 padding-top:50px;

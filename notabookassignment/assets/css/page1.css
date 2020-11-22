@@ -8,6 +8,12 @@ body{
 
 }
 
+a{
+	text-decoration: none;
+	color: white;
+}
+
+
 .title{
 	font-family: acumin-pro-extra-condensed, sans-serif;
 	font-size: 23vw;

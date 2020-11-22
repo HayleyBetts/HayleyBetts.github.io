@@ -66,14 +66,19 @@ p{
 
 }
 
-
-.img{
-	width: 40%;
+a{
+	text-decoration: none;
+	color: white;
 }
 
-.picture{
-	width: 10px;
-	height: 10px;
+
+
+img{
+	width: 100%;
+}
+
+.image{
+	padding: 4vw;
 }
 
 .row {

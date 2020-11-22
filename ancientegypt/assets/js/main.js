@@ -37,6 +37,7 @@ $(document).ready (function () {
 	$('.btn-Reset').click(function(){
 		$('.item').removeClass('hide');
 		$('.caption').addClass('hide');
+		$(".border").removeClass("hide");
 	});
 
 	$('.btn-nav').click(function(){
@@ -51,6 +52,7 @@ $(".btn-Symbols").click(function () {
   $(".caption").addClass("hide");
 
   $(".item").removeClass("samesize");
+  $(".border").removeClass("hide");
 
   $(".item.Symbols").removeClass("hide");
   $(".item.Symbols .caption").removeClass("hide");
@@ -67,6 +69,7 @@ $(".btn-Religion").click(function () {
   $(".caption").addClass("hide");
 
   $(".item").removeClass("samesize");
+  $(".border").removeClass("hide");
 
   $(".item.Religion").removeClass("hide");
   $(".item.Religion .caption").removeClass("hide");
@@ -85,6 +88,7 @@ $(".btn-Rituals").click(function () {
   $(".caption").addClass("hide");
 
   $(".item").removeClass("samesize");
+  $(".border").removeClass("hide");
 
   $(".item.Rituals").removeClass("hide");
   $(".item.Rituals .caption").removeClass("hide");
@@ -102,6 +106,7 @@ $(".btn-Egyptianlife").click(function () {
   $(".caption").addClass("hide");
 
  $(".item").removeClass("samesize");
+ $(".border").removeClass("hide");
 
   $(".item.Egyptianlife").removeClass("hide");
   $(".item.Egyptianlife .caption").removeClass("hide");
@@ -119,6 +124,7 @@ $(".btn-Pharaohs").click(function () {
   $(".caption").addClass("hide");
 
   $(".item").removeClass("samesize");
+  $(".border").removeClass("hide");
 
   $(".item.Pharaohs").removeClass("hide");
   $(".item.Pharaohs .caption").removeClass("hide");
@@ -132,12 +138,16 @@ $(".btn-Pharaohs").click(function () {
 $(".btn-Book").click(function () {
   $(".caption").addClass("hide");
   $(".item").addClass("hide");
+  $(".border").addClass("hide");
 
 
   $(".About.Book").removeClass("hide");
   $(".About.Book .caption").removeClass("hide");
 
 });
+
+
+
 
 });
 
